@@ -1,0 +1,26 @@
+body{
+    background-color: #E2E8F0;
+}
+/* cores */
+.text-orange{
+    color: #FE904D;
+}
+
+.text-purple{
+    color: #4E1269;
+}
+
+.btn-purple{
+    background-color: #4E1269;
+}
+
+.btn-darkpurple{
+    background-color: #2C0A3F;
+}
+
+.bg-cor{
+    background-color: #F1F5F9;
+}
+.bg-navcor{
+    background-color: #CBD5E1;
+}
