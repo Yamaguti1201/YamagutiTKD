@@ -9,7 +9,9 @@ body{
 .text-purple{
     color: #4E1269;
 }
-
+.bg-footer{
+    background-color: #464646 ;
+}
 .btn-purple{
     background-color: #4E1269;
 }
@@ -23,9 +25,4 @@ body{
 }
 .bg-navcor{
     background-color: #CBD5E1;
-}
-
-.bg-footer{
-    background-color: #464646 ;
-
 }
